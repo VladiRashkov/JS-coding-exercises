@@ -59,3 +59,10 @@ const game = {
 
 // const {team: a,...other}= game.odds;
 // console.log(a,other)
+
+
+// function printGoals(...players){
+    
+//     console.log(`Goals scored ${players.length}.`)
+// }
+// printGoals('Lewandowski', 'Alba', 'Nueur')
